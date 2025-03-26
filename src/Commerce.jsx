@@ -50,7 +50,7 @@ const Ecommerce = () => {
 
   const fetchProducts = async () => {
     try {
-      const response = await fetch("/parts.json");
+      const response = await fetch(`${import.meta.env.BASE_URL}parts.json`);      
       const data = await response.json();
       setProducts(data);
       cacheProducts(data);
