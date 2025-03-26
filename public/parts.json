@@ -1,0 +1,1957 @@
+[{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef6"
+  },
+  "product_id": 13,
+  "name": "INTEL Core i5 14400F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 14400F",
+  "generation": "14th Generation",
+  "price": 15019,
+  "original_price": 36699,
+  "discount": "60%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_13.webp",
+  "description": "INTEL Core i5 14th Gen Processor (4.7 GHz / 10 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0dc1e68dd9c3548ef15"
+  },
+  "product_id": 41,
+  "name": "INTEL Core i7 12700F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 12700F",
+  "generation": "12th Generation",
+  "price": 23178,
+  "original_price": 29999,
+  "discount": "23%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/11gen/image_5.webp",
+  "description": "INTEL Core i7 12th Gen Processor (4.9 GHz / 12 Cores / 20 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef18"
+  },
+  "product_id": 43,
+  "name": "AMD Ryzen 9 7950X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 9 7950X",
+  "generation": "7th Generation",
+  "price": 48049,
+  "original_price": 79999,
+  "discount": "40%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_2.webp",
+  "description": "AMD Ryzen 9 7950X 7th Generation Processor (5.7 GHz / 16 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef1b"
+  },
+  "product_id": 46,
+  "name": "AMD Ryzen 7 8700G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 8700G",
+  "generation": "7th Generation",
+  "price": 24999,
+  "original_price": 42246,
+  "discount": "41%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_5.webp",
+  "description": "AMD Ryzen 7 8700G Processor With Radeon Graphics (5.1 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef34"
+  },
+  "product_id": 71,
+  "name": "AMD Ryzen 3 3200G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 3 3200G",
+  "generation": "3rd Generation",
+  "price": 5325,
+  "original_price": 13500,
+  "discount": "61%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_30.webp",
+  "description": "AMD Ryzen 3 3200G 3rd Generation Processor (4GHz / 4 Cores / 4 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef7"
+  },
+  "product_id": 14,
+  "name": "INTEL Core i7 14700KF",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 14700KF",
+  "generation": "14th Generation",
+  "price": 33187,
+  "original_price": 56999,
+  "discount": "42%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_14.webp",
+  "description": "INTEL Core i7 14th Gen Processor (5.6 GHz / 20 Cores / 28 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548eefe"
+  },
+  "product_id": 20,
+  "name": "INTEL Core i7 13700F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 13700F",
+  "generation": "13th Generation",
+  "price": 27498,
+  "original_price": 49999,
+  "discount": "46%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_4.webp",
+  "description": "INTEL Core i7 13th Gen Processor (5.2 GHz / 16 Cores / 24 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef07"
+  },
+  "product_id": 28,
+  "name": "INTEL Core i3 12100",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i3 12100",
+  "generation": "12th Generation",
+  "price": 9595,
+  "original_price": 14000,
+  "discount": "32%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_1.webp",
+  "description": "INTEL Core i3 12th Gen Processor (4.3 GHz / 4 Cores / 8 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0dc1e68dd9c3548ef12"
+  },
+  "product_id": 38,
+  "name": "INTEL Core i5 11400F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 11400F",
+  "generation": "11th Generation",
+  "price": 9079,
+  "original_price": 12999,
+  "discount": "31%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/11gen/image_2.webp",
+  "description": "INTEL Core i5 11th Gen Processor (4.4 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef25"
+  },
+  "product_id": 56,
+  "name": "AMD Ryzen 9 9950X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 9 9950X",
+  "generation": "9th Generation",
+  "price": 59899,
+  "original_price": 100600,
+  "discount": "41%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_15.webp",
+  "description": "AMD Ryzen 9 9950X 9th Generation Processor (5.7 GHz / 16 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef27"
+  },
+  "product_id": 58,
+  "name": "AMD Ryzen 5 5600G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 5600G",
+  "generation": "5th Generation",
+  "price": 11464,
+  "original_price": 34500,
+  "discount": "67%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_17.webp",
+  "description": "AMD Ryzen 5 5600G 5th Generation Processor (4.4 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef35"
+  },
+  "product_id": 72,
+  "name": "AMD Ryzen 7 5700X3D",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 5700X3D",
+  "generation": "5th Generation",
+  "price": 21395,
+  "original_price": 27300,
+  "discount": "22%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_31.webp",
+  "description": "AMD Ryzen 7 5700X3D 5th Generation Desktop Processor (4.1 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548eeff"
+  },
+  "product_id": 21,
+  "name": "INTEL Core i3 13100F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i3 13100F",
+  "generation": "13th Generation",
+  "price": 7695,
+  "original_price": 15999,
+  "discount": "52%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_5.webp",
+  "description": "INTEL Core i3 13th Gen Processor (4.5 GHz / 4 Cores / 8 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef19"
+  },
+  "product_id": 44,
+  "name": "AMD Ryzen 5 3500",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 3500",
+  "generation": "3rd Generation",
+  "price": 12425,
+  "original_price": 19999,
+  "discount": "38%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_3.webp",
+  "description": "AMD Ryzen 5 3500 3rd Generation Processor (4.1 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eeea"
+  },
+  "product_id": 1,
+  "name": "INTEL Core i9 14900",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 14900",
+  "generation": "14th Generation",
+  "price": 50935,
+  "original_price": 66246,
+  "discount": "24%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_1.webp",
+  "description": "INTEL Core i9 14th Gen Processor (5.8 GHz / 24 Cores / 32 Threads) "
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef09"
+  },
+  "product_id": 30,
+  "name": "INTEL Core i3 12100F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i3 12100F",
+  "generation": "12th Generation",
+  "price": 6854,
+  "original_price": 10999,
+  "discount": "38%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_3.webp",
+  "description": "INTEL Core i3 12th Gen Processor (4.3 GHz / 4 Cores / 8 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef1e"
+  },
+  "product_id": 49,
+  "name": "AMD Ryzen 7 5800XT",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 580 0XT",
+  "generation": "5th Generation",
+  "price": 24848,
+  "original_price": 42000,
+  "discount": "41%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_8.webp",
+  "description": "AMD Ryzen 7 5800XT 5th Generation Processor (4.8 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef08"
+  },
+  "product_id": 29,
+  "name": "INTEL Core i9 12900KF",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 12900KF",
+  "generation": "12th Generation",
+  "price": 46095,
+  "original_price": 61499,
+  "discount": "26%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_2.webp",
+  "description": "INTEL Core i9 12th Gen Processor (5.2 GHz / 16 Cores / 24 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0dc1e68dd9c3548ef14"
+  },
+  "product_id": 40,
+  "name": "INTEL Core i7 12700K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 12700K",
+  "generation": "12th Generation",
+  "price": 24245,
+  "original_price": 36489,
+  "discount": "34%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/11gen/image_4.webp",
+  "description": "INTEL Core i7 12th Gen Processor (5 GHz / 12 Cores / 20 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef3a"
+  },
+  "product_id": 77,
+  "name": "AMD Ryzen 7 7700X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 7700X",
+  "generation": "7th Generation",
+  "price": 28999,
+  "original_price": 60000,
+  "discount": "52%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_36.webp",
+  "description": "AMD Ryzen 7 7700X 7th Generation Processor (5.4 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eeef"
+  },
+  "product_id": 6,
+  "name": "INTEL Core i9 14900K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 14900K",
+  "generation": "14th Generation",
+  "price": 45894,
+  "original_price": 69999,
+  "discount": "35%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_6.webp",
+  "description": "INTEL Core i9 14th Gen Processor (6 GHz / 24 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef3b"
+  },
+  "product_id": 78,
+  "name": "AMD Ryzen 5 7600",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 7600",
+  "generation": "7th Generation",
+  "price": 17949,
+  "original_price": 45000,
+  "discount": "61%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_37.webp",
+  "description": "AMD Ryzen 5 7600 7th Generation Processor (5.1 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eeec"
+  },
+  "product_id": 3,
+  "name": "INTEL Core i9 14900F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 14900F",
+  "generation": "14th Generation",
+  "price": 49495,
+  "original_price": 66246,
+  "discount": "26%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_3.webp",
+  "description": "INTEL Core i9 14th Gen Processor (5.8 GHz / 24 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef2"
+  },
+  "product_id": 9,
+  "name": "INTEL Core i7 14700",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 14700",
+  "generation": "14th Generation",
+  "price": 30490,
+  "original_price": 46669,
+  "discount": "35%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_9.webp",
+  "description": "INTEL Core i7 14th Gen Processor (5.4 GHz / 20 Cores / 28 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef0d"
+  },
+  "product_id": 34,
+  "name": "INTEL Core i7 12700",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 12700",
+  "generation": "12th Generation",
+  "price": 23990,
+  "original_price": 35999,
+  "discount": "34%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_7.webp",
+  "description": "INTEL Core i7 12th Gen Processor (4.9 GHz / 12 Cores / 20 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef1a"
+  },
+  "product_id": 45,
+  "name": "AMD Ryzen 5 4600G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 4600G",
+  "generation": "4th Generation",
+  "price": 8955,
+  "original_price": 20850,
+  "discount": "58%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_4.webp",
+  "description": "AMD Ryzen 5 4600G 4th Generation Processor (4.2 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef22"
+  },
+  "product_id": 53,
+  "name": "AMD Ryzen 5 8400F",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 8400F",
+  "generation": "2nd Generation",
+  "price": 15345,
+  "original_price": 24821,
+  "discount": "39%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_12.webp",
+  "description": "AMD Ryzen 5 8400F 2nd Generation Processor (4.2 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef0"
+  },
+  "product_id": 7,
+  "name": "INTEL Core i9 14900KS",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 14900KS",
+  "generation": "14th Generation",
+  "price": 64995,
+  "original_price": 89399,
+  "discount": "28%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_7.webp",
+  "description": "INTEL Core i9 14th Gen Processor (6.2 GHz / 24 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef1"
+  },
+  "product_id": 8,
+  "name": "INTEL Core i7 14700K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 14700K",
+  "generation": "14th Generation",
+  "price": 35599,
+  "original_price": 56999,
+  "discount": "38%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_8.webp",
+  "description": "INTEL Core i7 14th Gen Processor (5.6 GHz / 20 Cores / 28 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548ef02"
+  },
+  "product_id": 24,
+  "name": "INTEL Core i5 13600K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 13600K",
+  "generation": "13th Generation",
+  "price": 23045,
+  "original_price": 34899,
+  "discount": "34%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_8.webp",
+  "description": "INTEL Core i5 13th Gen Processor (5.1 GHz / 14 Cores / 20 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef0c"
+  },
+  "product_id": 33,
+  "name": "INTEL Core i9 12900KS",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 12900KS",
+  "generation": "12th Generation",
+  "price": 42129,
+  "original_price": 65999,
+  "discount": "37%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_6.webp",
+  "description": "INTEL Core i9 12th Gen Processor (5.5 GHz / 16 Cores / 24 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef29"
+  },
+  "product_id": 60,
+  "name": "AMD Ryzen 7 5800X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 5800X",
+  "generation": "5th Generation",
+  "price": 16395,
+  "original_price": 30387,
+  "discount": "47%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_19.webp",
+  "description": "AMD Ryzen 7 5800X 5th Generation Processor (4.7 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef2a"
+  },
+  "product_id": 61,
+  "name": "AMD Ryzen 5 5600",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 5600",
+  "generation": "5th Generation",
+  "price": 9699,
+  "original_price": 24999,
+  "discount": "62%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_20.webp",
+  "description": "AMD Ryzen 5 5600 5th Generation Processor (4.4 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548eefc"
+  },
+  "product_id": 18,
+  "name": "INTEL Core i9 13900KF",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 13900KF",
+  "generation": "13th Generation",
+  "price": 41900,
+  "original_price": 55999,
+  "discount": "26%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_2.webp",
+  "description": "INTEL Core i9 13th Gen Processor (5.8 GHz / 24 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548eefd"
+  },
+  "product_id": 19,
+  "name": "INTEL Core i9 13900KS",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 13900KS",
+  "generation": "13th Generation",
+  "price": 51859,
+  "original_price": 63710,
+  "discount": "19%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_3.webp",
+  "description": "INTEL Core i9 13th Gen Processor (6 GHz / 24 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef0b"
+  },
+  "product_id": 32,
+  "name": "INTEL Core i9 12900K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 12900K",
+  "generation": "12th Generation",
+  "price": 32999,
+  "original_price": 44999,
+  "discount": "27%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_5.webp",
+  "description": "INTEL Core i9 12th Gen Processor (5.2 GHz / 16 Cores / 24 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef17"
+  },
+  "product_id": 42,
+  "name": "AMD Ryzen 7 5700G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 5700G",
+  "generation": "5th Generation",
+  "price": 16039,
+  "original_price": 54000,
+  "discount": "71%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_1.webp",
+  "description": "AMD Ryzen 7 5700G 5th Generation Processor (4.6 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef2b"
+  },
+  "product_id": 62,
+  "name": "AMD Ryzen 5 8600G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 8600G",
+  "generation": "8th Generation",
+  "price": 17999,
+  "original_price": 29699,
+  "discount": "40%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_21.webp",
+  "description": "AMD Ryzen 5 8600G 8th Generation Processor (5 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef30"
+  },
+  "product_id": 67,
+  "name": "AMD Ryzen 3 4300G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 3 4300G",
+  "generation": "4th Generation",
+  "price": 6749,
+  "original_price": 22000,
+  "discount": "70%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_26.webp",
+  "description": "AMD Ryzen 3 4300G 4th Generation Processor (4GHz / 4 Cores / 8 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef38"
+  },
+  "product_id": 75,
+  "name": "AMD Ryzen 7 7700",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 7700",
+  "generation": "7th Generation",
+  "price": 26695,
+  "original_price": 60000,
+  "discount": "56%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_34.webp",
+  "description": "AMD Ryzen 7 7700 7th Generation Processor (5.3 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eeed"
+  },
+  "product_id": 4,
+  "name": "INTEL Core i3 14100F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i3 14100F",
+  "generation": "14th Generation",
+  "price": 7875,
+  "original_price": 16246,
+  "discount": "52%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_4.webp",
+  "description": "INTEL Core i3 14th Gen Processor (4 GHz / 4 Cores / 8 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0dc1e68dd9c3548ef13"
+  },
+  "product_id": 39,
+  "name": "INTEL Core i5 11400",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 11400",
+  "generation": "11th Generation",
+  "price": 11594,
+  "original_price": 14999,
+  "discount": "23%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/11gen/image_3.webp",
+  "description": "INTEL Core i5 11th Gen Processor (4.4 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef33"
+  },
+  "product_id": 70,
+  "name": "AMD Ryzen 5 3400G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 3400G",
+  "generation": "3rd Generation",
+  "price": 6899,
+  "original_price": 20999,
+  "discount": "68%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_29.webp",
+  "description": "AMD Ryzen 5 3400G APU 3rd Generation Processor (4.2 GHz / 4 Cores / 8 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548eefb"
+  },
+  "product_id": 17,
+  "name": "INTEL Core i7 13700",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 13700",
+  "generation": "13th Generation",
+  "price": 35099,
+  "original_price": 39999,
+  "discount": "13%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_1.webp",
+  "description": "INTEL Core i7 13th Gen Processor (5.2 GHz / 16 Cores / 24 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef1f"
+  },
+  "product_id": 50,
+  "name": "AMD Ryzen Threadripper PRO 5955WX",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Threadripper PRO 5955WX",
+  "generation": "5th Generation",
+  "price": 100035,
+  "original_price": 149699,
+  "discount": "34%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_9.webp",
+  "description": "AMD Ryzen Threadripper PRO 5955WX Workstation Processor (4.5 GHz / 16 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef23"
+  },
+  "product_id": 54,
+  "name": "AMD Ryzen 5 9600X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 9600X",
+  "generation": "9th Generation",
+  "price": 22999,
+  "original_price": 47000,
+  "discount": "52%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_13.webp",
+  "description": "AMD Ryzen 5 9600X 9th Generation Processor (5.4 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef2e"
+  },
+  "product_id": 65,
+  "name": "AMD Ryzen 5 5500GT",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 5500GT",
+  "generation": "5th Generation",
+  "price": 10279,
+  "original_price": 15500,
+  "discount": "34%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_24.webp",
+  "description": "AMD Ryzen 5 5500GT 5th Generation Processor (4.4 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef36"
+  },
+  "product_id": 73,
+  "name": "AMD Ryzen 9 7900",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 9 7900",
+  "generation": "7th Generation",
+  "price": 34495,
+  "original_price": 85000,
+  "discount": "60%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_32.webp",
+  "description": "AMD Ryzen 9 7900 7th Generation Processor (5.4 GHz / 12 Cores / 24 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef39"
+  },
+  "product_id": 76,
+  "name": "AMD Ryzen Threadripper PRO 5975WX",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Threadripper PRO 5975WX",
+  "generation": "5th Generation",
+  "price": 264699,
+  "original_price": 370199,
+  "discount": "29%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_35.webp",
+  "description": "AMD Ryzen Threadripper PRO 5975WX Workstation Processor (4.5 GHz / 32 Cores / 64 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548ef03"
+  },
+  "product_id": 25,
+  "name": "INTEL Core i7 13700K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 13700K",
+  "generation": "13th Generation",
+  "price": 34889,
+  "original_price": 39999,
+  "discount": "13%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_9.webp",
+  "description": "INTEL Core i7 13th Gen Processor (5.4 GHz / 16 Cores / 24 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548ef04"
+  },
+  "product_id": 26,
+  "name": "INTEL Core i5 13600KF",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 13600KF",
+  "generation": "13th Generation",
+  "price": 20795,
+  "original_price": 32489,
+  "discount": "36%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_10.webp",
+  "description": "INTEL Core i5 13th Gen Processor (5.1 GHz / 14 Cores / 20 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef1c"
+  },
+  "product_id": 47,
+  "name": "AMD Ryzen 7 5700",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 5700",
+  "generation": "5th Generation",
+  "price": 13734,
+  "original_price": 19500,
+  "discount": "30%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_6.webp",
+  "description": "AMD Ryzen 7 5700 5th Generation Desktop Processor (4.6 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef37"
+  },
+  "product_id": 74,
+  "name": "AMD Ryzen 5 7600X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 7600X",
+  "generation": "7th Generation",
+  "price": 19499,
+  "original_price": 45000,
+  "discount": "57%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_33.webp",
+  "description": "AMD Ryzen 5 7600X 7th Generation Processor (5.3 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef8"
+  },
+  "product_id": 15,
+  "name": "INTEL Core i7 14700F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 14700F",
+  "generation": "14th Generation",
+  "price": 28099,
+  "original_price": 49666,
+  "discount": "44%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_15.webp",
+  "description": "INTEL Core i7 14th Gen Processor (8 GHz / 20 Cores / 28 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef9"
+  },
+  "product_id": 16,
+  "name": "INTEL Core i5 14600K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 14600K",
+  "generation": "14th Generation",
+  "price": 22650,
+  "original_price": 46999,
+  "discount": "52%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_16.webp",
+  "description": "INTEL Core i5 14th Gen Processor (6 GHz / 14 Cores / 20 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0dc1e68dd9c3548ef11"
+  },
+  "product_id": 37,
+  "name": "INTEL Core i7 11700K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i7 11700K",
+  "generation": "11th Generation",
+  "price": 23355,
+  "original_price": 29999,
+  "discount": "23%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/11gen/image_1.webp",
+  "description": "INTEL Core i7 11th Gen Processor (5 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef21"
+  },
+  "product_id": 52,
+  "name": "AMD Ryzen 7 8700F",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 8700F",
+  "generation": "2nd Generation",
+  "price": 23495,
+  "original_price": 49245,
+  "discount": "53%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_11.webp",
+  "description": "AMD Ryzen 7 8700F 2nd Generation Processor (4.1 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef24"
+  },
+  "product_id": 55,
+  "name": "AMD Ryzen 7 9700X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 9700X",
+  "generation": "9th Generation",
+  "price": 32498,
+  "original_price": 60000,
+  "discount": "46%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_14.webp",
+  "description": "AMD Ryzen 7 9700X 9th Generation Processor (5.5 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef32"
+  },
+  "product_id": 69,
+  "name": "AMD Ryzen 9 7950X3D",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 9 7950X3D",
+  "generation": "7th Generation",
+  "price": 56299,
+  "original_price": 97000,
+  "discount": "42%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_28.webp",
+  "description": "AMD Ryzen 9 7950X3D 7th Generation Processor (5.7 GHz / 16 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eeee"
+  },
+  "product_id": 5,
+  "name": "INTEL Core i5 14600KF",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 14600KF",
+  "generation": "14th Generation",
+  "price": 21319,
+  "original_price": 39999,
+  "discount": "47%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_5.webp",
+  "description": "INTEL Core i5 14th Gen Processor (6 GHz / 14 Cores / 20 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef0a"
+  },
+  "product_id": 31,
+  "name": "INTEL Core i5 12400",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 12400",
+  "generation": "12th Generation",
+  "price": 12454,
+  "original_price": 18999,
+  "discount": "35%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_4.webp",
+  "description": "INTEL Core i5 12th Gen Processor (4.4 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef0e"
+  },
+  "product_id": 35,
+  "name": "INTEL Core i5 12600K",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 12600K",
+  "generation": "12th Generation",
+  "price": 17595,
+  "original_price": 29899,
+  "discount": "42%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_8.webp",
+  "description": "INTEL Core i5 12th Gen Processor (4.9 GHz / 10 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef28"
+  },
+  "product_id": 59,
+  "name": "AMD Ryzen 7 5700X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 5700X",
+  "generation": "5th Generation",
+  "price": 16195,
+  "original_price": 38000,
+  "discount": "58%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_18.webp",
+  "description": "AMD Ryzen 7 5700X 5th Generation Processor (4.6 GHz / 8 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef2d"
+  },
+  "product_id": 64,
+  "name": "AMD Ryzen 5 5600X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 5600X",
+  "generation": "5th Generation",
+  "price": 12795,
+  "original_price": 42000,
+  "discount": "70%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_23.webp",
+  "description": "AMD Ryzen 5 5600X 5th Generation Processor (4.6 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766da741e68dd9c3548ef3c"
+  },
+  "product_id": 79,
+  "name": "AMD Ryzen 7 9800X3D",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 7 9800X3D",
+  "generation": "9th Generation",
+  "price": 53999,
+  "original_price": 59899,
+  "discount": "10%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_38.webp",
+  "description": "AMD Ryzen 7 9800X3D 9th Generation Processor ( 4.7GHz / 8 Cores / 16 Threads )"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548ef00"
+  },
+  "product_id": 22,
+  "name": "INTEL Core i3 13100",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i3 13100",
+  "generation": "13th Generation",
+  "price": 12490,
+  "original_price": 15999,
+  "discount": "22%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_6.webp",
+  "description": "INTEL Core i3 13th Gen Processor (4.5 GHz / 4 Cores / 8 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d0771e68dd9c3548ef0f"
+  },
+  "product_id": 36,
+  "name": "INTEL Core i5 12400F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 12400F",
+  "generation": "12th Generation",
+  "price": 9859,
+  "original_price": 16899,
+  "discount": "42%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/12gen/image_9.webp",
+  "description": "INTEL Core i5 12th Gen Processor (4.4 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef1d"
+  },
+  "product_id": 48,
+  "name": "AMD Ryzen 9 5900XT",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 9 5900XT",
+  "generation": "5th Generation",
+  "price": 33679,
+  "original_price": 59000,
+  "discount": "43%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_7.webp",
+  "description": "AMD Ryzen 9 5900XT 5th Generation Processor (3.3 GHz / 16 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef2f"
+  },
+  "product_id": 66,
+  "name": "AMD Ryzen 5 5500",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 5500",
+  "generation": "5th Generation",
+  "price": 7545,
+  "original_price": 29999,
+  "discount": "75%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_25.webp",
+  "description": "AMD Ryzen 5 5500 5th Generation Processor (4.2 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eeeb"
+  },
+  "product_id": 2,
+  "name": "INTEL Core i3 14100",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i3 14100",
+  "generation": "14th Generation",
+  "price": 10999,
+  "original_price": 18624,
+  "discount": "41%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_2.webp",
+  "description": "INTEL Core i3 14th Gen Processor (4 GHz / 4 Cores / 8 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef3"
+  },
+  "product_id": 10,
+  "name": "INTEL Core i5 14500",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 14500",
+  "generation": "14th Generation",
+  "price": 22335,
+  "original_price": 29666,
+  "discount": "25%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_10.webp",
+  "description": "INTEL Core i5 14th Gen Processor (5 GHz / 14 Cores / 20 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef4"
+  },
+  "product_id": 11,
+  "name": "INTEL Core i9 14900KF",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i9 14900KF",
+  "generation": "14th Generation",
+  "price": 43299,
+  "original_price": 66999,
+  "discount": "36%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_11.webp",
+  "description": "INTEL Core i9 14th Gen Processor (6 GHz / 24 Cores / 32 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766ce311e68dd9c3548eef5"
+  },
+  "product_id": 12,
+  "name": "Intel Core i5 14400",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 14400",
+  "generation": "14th Generation",
+  "price": 18599,
+  "original_price": 26246,
+  "discount": "30%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/14gen/image_12.webp",
+  "description": "INTEL Core i5 14th Gen Processor (2.5 GHz / 10 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548ef01"
+  },
+  "product_id": 23,
+  "name": "INTEL Core i5 13400",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 13400",
+  "generation": "13th Generation",
+  "price": 17890,
+  "original_price": 28799,
+  "discount": "38%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_7.webp",
+  "description": "INTEL Core i5 13th Gen Processor (4.6 GHz / 10 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766cf4b1e68dd9c3548ef05"
+  },
+  "product_id": 27,
+  "name": "INTEL Core i5 13400F",
+  "category": "Processor",
+  "brand": "Intel",
+  "model_number": "Core i5 13400F",
+  "generation": "13th Generation",
+  "price": 15239,
+  "original_price": 28799,
+  "discount": "48%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/13gen/image_11.webp",
+  "description": "INTEL Core i5 13th Gen Processor (4.6 GHz / 10 Cores / 16 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef20"
+  },
+  "product_id": 51,
+  "name": "AMD Ryzen 5 3600",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 3600",
+  "generation": "3rd Generation",
+  "price": 8778,
+  "original_price": 25200,
+  "discount": "66%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_10.webp",
+  "description": "AMD Ryzen 5 3600 3rd Generation Processor (4.2 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef26"
+  },
+  "product_id": 57,
+  "name": "AMD Ryzen 5 8500G",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 8500G",
+  "generation": "8th Generation",
+  "price": 13199,
+  "original_price": 24624,
+  "discount": "47%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_16.webp",
+  "description": "AMD Ryzen 5 8500G 8th Generation Processor (5 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef2c"
+  },
+  "product_id": 63,
+  "name": "AMD Ryzen 5 5600GT",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 5 5600GT",
+  "generation": "5th Generation",
+  "price": 11499,
+  "original_price": 16640,
+  "discount": "31%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_22.webp",
+  "description": "AMD Ryzen 5 5600GT 5th Generation Processor (4.6 GHz / 6 Cores / 12 Threads)"
+},
+{
+  "_id": {
+    "$oid": "6766d5971e68dd9c3548ef31"
+  },
+  "product_id": 68,
+  "name": "AMD Ryzen 9 7900X",
+  "category": "Processor",
+  "brand": "AMD",
+  "model_number": "Ryzen 9 7900X",
+  "generation": "7th Generation",
+  "price": 34999,
+  "original_price": 85000,
+  "discount": "59%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/amd/image_27.webp",
+  "description": "AMD Ryzen 9 7900X 7th Generation Processor (5.6 GHz / 12 Cores / 24 Threads)"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284d8"
+  },
+  "product_id": 81,
+  "name": "ZOTAC Gaming GeForce RTX 4060",
+  "vram": "8GB",
+  "efficiency": "twinedge",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4060",
+  "price": 26699,
+  "original_price": 41999,
+  "discount": "37%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image2.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4060 Twin Edge OC 8GB White Edition Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284e0"
+  },
+  "product_id": 89,
+  "name": "ZOTAC Gaming GeForce RTX 3050",
+  "vram": "8GB",
+  "efficiency": "eco",
+  "overclock": "NON-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "3050",
+  "price": 19499,
+  "original_price": 37999,
+  "discount": "49%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image10.webp",
+  "description": "ZOTAC Gaming GeForce RTX 3050 Eco 8GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284de"
+  },
+  "product_id": 87,
+  "name": "ZOTAC Gaming GeForce RTX 4060 Ti",
+  "vram": "16GB",
+  "efficiency": "twinedge",
+  "overclock": "NON-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4060ti",
+  "price": 43319,
+  "original_price": 63545,
+  "discount": "32%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image8.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4060 Ti Twin Edge 16GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284dd"
+  },
+  "product_id": 86,
+  "name": "ZOTAC GAMING GeForce RTX 4080",
+  "vram": "16GB",
+  "efficiency": "superamp",
+  "overclock": "NON-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4080",
+  "price": 99999,
+  "original_price": 146799,
+  "discount": "32%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image7.webp",
+  "description": "ZOTAC GAMING GeForce RTX 4080 Super AMP Airo 16GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284df"
+  },
+  "product_id": 88,
+  "name": "ZOTAC Gaming GeForce RTX 4080",
+  "vram": "16GB",
+  "efficiency": "supertrinity",
+  "overclock": "NON-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4080",
+  "price": 102999,
+  "original_price": 149999,
+  "discount": "32%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image9.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4080 Super Trinity Black Edition 16GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284d7"
+  },
+  "product_id": 80,
+  "name": "ZOTAC Gaming GeForce RTX 4060 Ti",
+  "vram": "8GB",
+  "efficiency": "twinedge",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4060ti",
+  "price": 35999,
+  "original_price": 52500,
+  "discount": "32%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image1.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4060 Ti Twin Edge OC White Edition 8GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284da"
+  },
+  "product_id": 83,
+  "name": "ZOTAC Gaming GeForce RTX 4070",
+  "vram": "12GB",
+  "efficiency": "twinedge",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070",
+  "price": 58499,
+  "original_price": 86999,
+  "discount": "33%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image4.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4070 Super Twin Edge OC 12GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284db"
+  },
+  "product_id": 84,
+  "name": "ZOTAC Gaming GeForce RTX 4060",
+  "vram": "8GB",
+  "efficiency": "twinedge",
+  "overclock": "NON-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4060",
+  "price": 27499,
+  "original_price": 46598,
+  "discount": "41%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image5.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4060 Twin Edge 8GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284d9"
+  },
+  "product_id": 82,
+  "name": "ZOTAC Gaming GeForce RTX 4070 Ti",
+  "vram": "16GB",
+  "efficiency": "trinity",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070ti",
+  "price": 83966,
+  "original_price": 99999,
+  "discount": "17%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image3.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4070 Ti Super Trinity OC White Edition 16GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677517e5dbd08c89f24284dc"
+  },
+  "product_id": 85,
+  "name": "ZOTAC Gaming GeForce RTX 4060 Ti",
+  "vram": "8GB",
+  "efficiency": "twinedge",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4060ti",
+  "price": 39119,
+  "original_price": 52500,
+  "discount": "26%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image6.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4060 Ti Twin Edge OC 8GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284f9"
+  },
+  "product_id": 96,
+  "name": "ZOTAC Gaming GeForce RTX 4070 Ti Super AMP",
+  "vram": "16GB",
+  "efficiency": "Super AMP Holo",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070ti",
+  "price": 82499,
+  "original_price": 116987,
+  "discount": "30%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image17.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4070 Ti Super AMP Holo 16GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284fd"
+  },
+  "product_id": 100,
+  "name": "Zotac GeForce GT 730",
+  "vram": "4GB",
+  "efficiency": "Zone Edition",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "gt730",
+  "price": 7399,
+  "original_price": 8910,
+  "discount": "17%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image21.webp",
+  "description": "ZOTAC Gaming GeForce GT 730 4GB DDR3 Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284f3"
+  },
+  "product_id": 90,
+  "name": "ZOTAC Gaming GeForce RTX 3060",
+  "vram": "12GB",
+  "efficiency": "Twin Edge",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "3060",
+  "price": 25368,
+  "original_price": 69899,
+  "discount": "64%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image11.webp",
+  "description": "ZOTAC Gaming GeForce RTX 3060 Twin Edge 12GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284f7"
+  },
+  "product_id": 94,
+  "name": "ZOTAC Gaming GeForce RTX 4070",
+  "vram": "12GB",
+  "efficiency": "Twin Edge",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070",
+  "price": 52895,
+  "original_price": 66999,
+  "discount": "22%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image15.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4070 Twin Edge 12GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284fa"
+  },
+  "product_id": 97,
+  "name": "ZOTAC Gaming GeForce RTX 4070 Super",
+  "vram": "12GB",
+  "efficiency": "Super Twin Edge",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070super",
+  "price": 55999,
+  "original_price": 89999,
+  "discount": "38%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image18.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4070 Super Twin Edge 12GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284f6"
+  },
+  "product_id": 93,
+  "name": "ZOTAC Gaming GeForce RTX 4070 AMP Airo Spider-Man",
+  "vram": "12GB",
+  "efficiency": "AMP Airo Spider-Man Across The Spider-Verse",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070amp",
+  "price": 61299,
+  "original_price": 89999,
+  "discount": "32%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image14.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4070 AMP Airo Spider-Man Across The Spider-Verse Bundle Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284fb"
+  },
+  "product_id": 98,
+  "name": "ZOTAC Gaming GeForce RTX 4060 Ti",
+  "vram": "8GB",
+  "efficiency": "Twin Edge",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4060ti",
+  "price": 35999,
+  "original_price": 59999,
+  "discount": "41%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image19.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4060 Ti Twin Edge Non OC 8GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284fc"
+  },
+  "product_id": 99,
+  "name": "Zotac Pascal Series GT 1030",
+  "vram": "2GB",
+  "efficiency": "Echo",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "gt1030",
+  "price": 7299,
+  "original_price": 14800,
+  "discount": "51%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image20.webp",
+  "description": "ZOTAC Gaming GeForce GT 1030 2GB DDR5 Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284fe"
+  },
+  "product_id": 101,
+  "name": "ZOTAC Gaming GeForce GT 710",
+  "vram": "2GB",
+  "efficiency": "Twin Edge",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "gt710",
+  "price": 3549,
+  "original_price": 6999,
+  "discount": "50%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image22.webp",
+  "description": "ZOTAC Gaming GeForce GT 710 2GB DDR3 Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284ff"
+  },
+  "product_id": 102,
+  "name": "Zotac GeForce GT 730",
+  "vram": "4GB",
+  "efficiency": "Zone Edition",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "gt730zone",
+  "price": 7299,
+  "original_price": 8910,
+  "discount": "19%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image23.webp",
+  "description": "ZOTAC Gaming GeForce GT 730 Zone Edition 4GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284f5"
+  },
+  "product_id": 92,
+  "name": "ZOTAC Gaming GeForce RTX 4070",
+  "vram": "12GB",
+  "efficiency": "Twin Edge OC",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070",
+  "price": 52999,
+  "original_price": 99999,
+  "discount": "48%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image13.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4070 Twin Edge OC 12GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284f4"
+  },
+  "product_id": 91,
+  "name": "ZOTAC Gaming GeForce RTX 3080 Ti",
+  "vram": "12GB",
+  "efficiency": "Trinity",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "3080ti",
+  "price": 104500,
+  "original_price": 162999,
+  "discount": "36%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image12.webp",
+  "description": "ZOTAC Gaming GeForce RTX 3080 Ti Trinity 12GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751b7fdbd08c89f24284f8"
+  },
+  "product_id": 95,
+  "name": "ZOTAC Gaming GeForce RTX 3050",
+  "vram": "8GB",
+  "efficiency": "Eco Solo",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "3050eco",
+  "price": 20894,
+  "original_price": 37999,
+  "discount": "46%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image16.webp",
+  "description": "ZOTAC Gaming GeForce RTX 3050 Eco Solo 8GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751bd8dbd08c89f2428504"
+  },
+  "product_id": 106,
+  "name": "ZOTAC Gaming GeForce RTX 4060 Ti 16GB AMP",
+  "vram": "16GB",
+  "efficiency": "AMP",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4060ti_amp",
+  "price": 43399,
+  "original_price": 56999,
+  "discount": "24%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image27.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4060 Ti 16GB AMP Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751bd8dbd08c89f2428506"
+  },
+  "product_id": 108,
+  "name": "ZOTAC GAMING GeForce RTX 4070 Super TWIN EDGE OC White Edition",
+  "vram": "12GB",
+  "efficiency": "Super TWIN EDGE OC White Edition",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070_super_white",
+  "price": 61045,
+  "original_price": 94833,
+  "discount": "36%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image29.webp",
+  "description": "ZOTAC GAMING GeForce RTX 4070 Super TWIN EDGE OC White Edition Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751bd8dbd08c89f2428508"
+  },
+  "product_id": 110,
+  "name": "ZOTAC GAMING GeForce RTX 4080 Super AMP",
+  "vram": "16GB",
+  "efficiency": "Super AMP",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4080_super_amp",
+  "price": 99399,
+  "original_price": 177600,
+  "discount": "45%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image31.webp",
+  "description": "ZOTAC GAMING GeForce RTX 4080 Super AMP 16GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751bd8dbd08c89f2428503"
+  },
+  "product_id": 105,
+  "name": "ZOTAC Gaming GeForce RTX 4060 Twin Edge OC",
+  "vram": "8GB",
+  "efficiency": "Twin Edge OC",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4060_twin_edge",
+  "price": 27895,
+  "original_price": 46598,
+  "discount": "41%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image26.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4060 Twin Edge OC 8GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751bd8dbd08c89f2428501"
+  },
+  "product_id": 103,
+  "name": "ZOTAC Gaming GeForce GTX 1650 AMP Core",
+  "vram": "4GB",
+  "efficiency": "AMP Core",
+  "overclock": "Non-OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "gtx1650",
+  "price": 13599,
+  "original_price": 19990,
+  "discount": "32%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image24.webp",
+  "description": "ZOTAC Gaming GeForce GTX 1650 AMP Core 4GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751bd8dbd08c89f2428505"
+  },
+  "product_id": 107,
+  "name": "Zotac Gaming GeForce RTX 3060 Twin Edge OC",
+  "vram": "12GB",
+  "efficiency": "Twin Edge OC",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "3060_twin_edge",
+  "price": 26370,
+  "original_price": 69899,
+  "discount": "63%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image28.webp",
+  "description": "Zotac Gaming GeForce RTX 3060 Twin Edge OC Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751bd8dbd08c89f2428502"
+  },
+  "product_id": 104,
+  "name": "ZOTAC Gaming GeForce RTX 4070 Ti Super Trinity Black Edition",
+  "vram": "16GB",
+  "efficiency": "Super Trinity Black Edition",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070ti_super_trinity",
+  "price": 80195,
+  "original_price": 89999,
+  "discount": "11%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image25.webp",
+  "description": "ZOTAC Gaming GeForce RTX 4070 Ti Super Trinity Black Edition 16GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "67751bd8dbd08c89f2428507"
+  },
+  "product_id": 109,
+  "name": "ZOTAC GAMING GeForce RTX 4070 Super Trinity Black OC",
+  "vram": "12GB",
+  "efficiency": "Super Trinity Black OC",
+  "overclock": "OC",
+  "category": "Graphics-card",
+  "brand": "Zotac",
+  "model_number": "4070_super_trinity",
+  "price": 62949,
+  "original_price": 105820,
+  "discount": "41%",
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/zotac/image30.webp",
+  "description": "ZOTAC GAMING GeForce RTX 4070 Super Trinity Black OC 12GB Nvidia Graphic Card"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d35"
+  },
+  "product_id": 115,
+  "name": "AMD Radeon PRO W5700 8GB AMD Graphic Card",
+  "chipset": "W5700",
+  "vram": "8GB",
+  "category": "Graphics-card",
+  "discount": "13%",
+  "price": 49049,
+  "original_price": 55865,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image5.webp",
+  "brand": "AMD"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d38"
+  },
+  "product_id": 118,
+  "name": "AMD Radeon PRO W6400 4GB AMD Graphic Card",
+  "chipset": "W6400",
+  "vram": "4GB",
+  "category": "Graphics-card",
+  "discount": "18%",
+  "price": 23699,
+  "original_price": 28555,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image8.webp",
+  "brand": "AMD"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d33"
+  },
+  "product_id": 113,
+  "name": "AMD Radeon PRO W7500 8GB Professional Graphics",
+  "chipset": "W7500",
+  "vram": "8GB",
+  "category": "Graphics-card",
+  "discount": "14%",
+  "price": 48149,
+  "original_price": 55699,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image3.webp",
+  "brand": "AMD"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d34"
+  },
+  "product_id": 114,
+  "name": "AMD Radeon PRO W7800 32GB Workstations Graphic Card",
+  "chipset": "W7800",
+  "vram": "32GB",
+  "discount": "4%",
+  "category": "Graphics-card",
+  "price": 256799,
+  "original_price": 264852,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image4.webp",
+  "brand": "AMD"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d3a"
+  },
+  "product_id": 120,
+  "name": "AMD Radeon Pro W7700 16GB Professional Graphic Card",
+  "chipset": "W7700",
+  "vram": "16GB",
+  "discount": "11%",
+  "price": 111399,
+  "category": "Graphics-card",
+  "original_price": 124599,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image10.webp",
+  "brand": "AMD"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d39"
+  },
+  "product_id": 119,
+  "name": "AMD Radeon PRO W7900 48GB Workstations Graphic Card",
+  "chipset": "W7900",
+  "vram": "48GB",
+  "category": "Graphics-card",
+  "discount": "2%",
+  "price": 401549,
+  "original_price": 409258,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image9.webp",
+  "brand": "AMD"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d37"
+  },
+  "product_id": 117,
+  "name": "AMD Firepro S400 Synchronization Module AMD Graphic Card",
+  "chipset": "S400",
+  "vram": "Synchronization Module",
+  "discount": "15%",
+  "category": "Graphics-card",
+  "price": 47999,
+  "original_price": 55899,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image7.webp",
+  "brand": "AMD"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d32"
+  },
+  "product_id": 112,
+  "name": "AMD Radeon PRO W5500 8GB AMD Graphic Card",
+  "chipset": "W5500",
+  "vram": "8GB",
+  "discount": "13%",
+  "price": 34899,
+  "category": "Graphics-card",
+  "original_price": 39999,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image2.webp",
+  "brand": "AMD"
+},
+{
+  "_id": {
+    "$oid": "677681e8495189f4cbed3d31"
+  },
+  "product_id": 111,
+  "name": "AMD Radeon PRO W6600 8GB Professional Graphics Card",
+  "chipset": "W6600",
+  "vram": "8GB",
+  "discount": "11%",
+  "price": 56010,
+  "category": "Graphics-card",
+  "original_price": 62599,
+  "photo_url": "https://res.cloudinary.com/dv73vicqn/image/upload/assets/products/graphics/amd/image1.webp",
+  "brand": "AMD"
+}]
