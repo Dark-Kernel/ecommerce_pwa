@@ -1,9 +1,9 @@
 const CACHE_NAME = 'pwa-commerce-v1';
 const STATIC_ASSETS = [
-  '/',
-  '/index.html',
-  '/vite.svg',
-  '/parts.json'
+  import.meta.env.BASE_URL,
+  `${import.meta.env.BASE_URL}index.html`,
+  `${import.meta.env.BASE_URL}vite.svg`,
+  `${import.meta.env.BASE_URL}parts.json`
 ];
 
 // Install event - cache static assets
